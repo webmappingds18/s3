@@ -64,6 +64,9 @@ width: 90%;
 }
 
 #map {
+    width: 90%;
+    height: 360px;
+    border: 1px solid gray;
 }
 
 #footer {
